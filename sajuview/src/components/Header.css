@@ -1,0 +1,17 @@
+.header {
+    height: 70px;
+    border-bottom: 1px solid #ddd;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 0 30px;
+
+    background: white;
+}
+
+.header nav {
+    display: flex;
+    gap: 20px;
+}
